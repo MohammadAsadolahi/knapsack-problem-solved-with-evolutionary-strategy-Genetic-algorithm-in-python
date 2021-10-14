@@ -1,6 +1,6 @@
 #   solving knapsack problem with n item and random values with GA(genetic algorithm) 
 #   by mohammad asadolahi
-#   mohmad.asa1994@gmail.com
+#   Mohammad.E.Asadolahi@gmail.com
 import random
 
 from matplotlib import pyplot as plt
